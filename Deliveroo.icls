@@ -1,12 +1,13 @@
 <scheme name="Deliveroo" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-11-14T11:13:05</property>
+    <property name="created">2019-11-14T12:20:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-14T11:13:11</property>
+    <property name="modified">2019-11-14T12:20:43</property>
     <property name="originalScheme">Deliveroo</property>
   </metaInfo>
   <colors>
+    <option name="CARET_ROW_COLOR" value="e8ebeb" />
     <option name="LINE_NUMBERS_COLOR" value="585c5c" />
   </colors>
   <attributes>
@@ -148,6 +149,12 @@
     <option name="Scala Type Alias">
       <value>
         <option name="FOREGROUND" value="7d0057" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="252929" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
